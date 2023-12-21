@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpissolatto&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/385958/124689674-e69e3f00-dea6-11eb-9919-2f843616c989.png">
+  <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/385958/124689674-e69e3f00-dea6-11eb-9919-2f843616c989.png">
   <img align="center" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
