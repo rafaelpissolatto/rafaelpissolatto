@@ -3,6 +3,7 @@
   <a href="https://github.com/rafaelpissolatto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelpissolatto&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpissolatto&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  </a>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="30" alt="kubernetes" src="https://cdn.icon-icons.com/icons2/2699/PNG/96/kubernetes_logo_icon_168359.png">
